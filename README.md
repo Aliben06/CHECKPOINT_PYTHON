@@ -1,3 +1,4 @@
 # CHECKPOINT_PYTHON
-MY PROJECTS IN PYTHON
-This file contains a description for my python project
+MY TRAINING IN PYTHON PROGRAMMING
+This directory contains the checkpoints completed during my training in Python programming.
+Ce répertoire contient les checkpoints accomplis lors de ma formation en programmation Python.
